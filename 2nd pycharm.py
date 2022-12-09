@@ -51,6 +51,8 @@ print("hello")
 i = 10
 if(i == 10):
    print("value of i is 10") #here the space before print is needed because of this " : "
+   
+   #All the arithematic operators are used in this code
 
 
 
